@@ -4,6 +4,10 @@ h1{
 .calculator{
     text-align: center;
 }
+.input{
+    background-image: url('/images/calendar.png');
+
+}
 button{
     margin-top: 10px;
 }

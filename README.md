@@ -1,9 +1,13 @@
 # JSPractice1-AgeCalc
 Age calculator
 
-Here, I have learned how to use the npm package manager - it is just like pip lol
+Here, 
+- I have learned how to use the npm package manager - it is just like pip lol
 - I also reviewed my knowledge and refined my skills in html + css
 - applying javascript stuff for the first time
+- taught me how to read documentation more effectively 
+[luxon](https://moment.github.io/luxon)
+[js-datepicker](https://www.npmjs.com/package/js-datepicker)
 
 project to fiddle with from https://roadmap.sh/projects/age-calculator
 
