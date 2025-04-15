@@ -6,8 +6,9 @@ Here,
 - I also reviewed my knowledge and refined my skills in html + css
 - applying javascript stuff for the first time
 - taught me how to read documentation more effectively 
-[luxon](https://moment.github.io/luxon)
-[js-datepicker](https://www.npmjs.com/package/js-datepicker)
+- note to self: fix directories pls thx u stupid boi
+([luxon](https://moment.github.io/luxon),
+[js-datepicker](https://www.npmjs.com/package/js-datepicker))
 
 project to fiddle with from https://roadmap.sh/projects/age-calculator
 
